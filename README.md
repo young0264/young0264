@@ -1,5 +1,7 @@
-### Hi there 👋
+### 이 누추한곳에 어인일로.. 방문해주셔서 감사합니다 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ny2485)](https://solved.ac/ny2485/)
 
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <!--
 **young0264/young0264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
