@@ -1,4 +1,4 @@
-### 반가워요! 👋
+### 반갑습니다! 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ny2485)](https://solved.ac/ny2485/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoung0264&count_bg=%232B72D7&title_bg=%23555555&icon=&icon_color=%232F31E5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ny2485&theme=warm)
