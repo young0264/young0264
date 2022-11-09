@@ -1,6 +1,6 @@
 ### 반갑습니다! 👋 
 
-- Baekjoon (22.01.12 ~ now)
+- Baekjoon (22.01.12 ~ now) [click](https://solved.ac/ny2485)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ny2485)](https://solved.ac/ny2485/)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ny2485&theme=warm)
 
