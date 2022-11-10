@@ -3,7 +3,7 @@
 
 - Baekjoon (22.01.12 ~ now) [click Link](https://solved.ac/ny2485)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ny2485)](https://solved.ac/ny2485/)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ny2485&theme=warm)
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=ny2485)](https://solved.ac/ny2485/)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ny2485&theme=warm)
 
 [![young's GitHub stats](https://github-readme-stats.vercel.app/api?username=young0264)](https://github.com/young0264/young0264/blob/main/README.md)
 
