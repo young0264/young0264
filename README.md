@@ -1,7 +1,7 @@
 ### 반갑습니다! 👋 
-- 맛동산 Project(22.08 - 22.09) [사이트](https://flavourtown.site)
+- 맛동산 Project(22.08 - 22.09) [배포 사이트 링크](https://flavourtown.site)
 
-- Baekjoon (22.01.12 ~ now) [click](https://solved.ac/ny2485)
+- Baekjoon (22.01.12 ~ now) [click Link](https://solved.ac/ny2485)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ny2485)](https://solved.ac/ny2485/)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ny2485&theme=warm)
 
