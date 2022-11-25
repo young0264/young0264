@@ -1,6 +1,6 @@
 ### 반갑습니다! 👋 
 - 맛동산 Project(22.08 - 22.09) [배포 사이트 링크](https://flavourtown.site)
-  (무한 리팩토링, bug fix 중. 요즘 모든 도메인 test code 작성중..)
+  (무한 리팩토링, 모든 도메인 test code 작성중..)
 
 - Baekjoon (22.01.12 ~ now) [click Link](https://solved.ac/ny2485)
 
