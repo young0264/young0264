@@ -1,5 +1,5 @@
 ### 반갑습니다! 👋 
-- 맛동산 Project(22.08 - 22.09) [배포 사이트 링크](https://flavourtown.site) (잠시 중단)
+- 맛동산 Project(22.08 - 22.09) [배포 사이트 링크](https://flavourtown.site)
 
 - Baekjoon (22.01.12 ~ now) [click Link](https://solved.ac/ny2485)
 
