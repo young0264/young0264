@@ -1,5 +1,5 @@
 ### Hey! 👋 
-- 🔭 I’m hard worker.
+- 🔭 I am a hard worker.
 - 😄 I enjoy creating things and striving to find the optimal solution.
 <!-- ![](http://mazassumnida.wtf/api/v2/generate_badge?boj=ny2485) -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ny2485&theme=warm) -->
